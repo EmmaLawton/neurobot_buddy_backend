@@ -1,0 +1,12 @@
+# Save File
+
+# Open cmd Prompt
+
+#               cd c:\Users\emma_\AppData\LocalNeurobots\neurobot_buddy_backend
+#               python -m venv venv
+#(venv)         venv\Scripts\activate
+
+# Deploy with 3 simple commands:
+git add .
+git commit -m "Updated API endpoints"
+git push
