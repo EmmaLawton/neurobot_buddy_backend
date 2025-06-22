@@ -18,7 +18,7 @@ app.add_middleware(
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Neurobot Buddy API!"}    
+    return {"message": "Welcome to the Neurobot Buddy APP API!"}    
 
 @app.get("/health")
 def health_check(): 
